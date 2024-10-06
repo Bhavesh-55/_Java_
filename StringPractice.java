@@ -6,7 +6,7 @@ public class StringPractice {
         String str1="JAVA";
         System.out.println(str1);
         
-        String str2=new String("JAVA");
+        String str2 = new String("JAVA");
         System.out.println(str2);
         
         char c[]={'H','e','l','l','o'};
